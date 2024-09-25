@@ -1,1 +1,1 @@
-# AI-class
+# AI-class  assignments
