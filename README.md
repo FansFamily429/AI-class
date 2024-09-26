@@ -1,5 +1,14 @@
 # AI-class  assignments
 
+## Code
+
+CNN  
+https://github.com/kuangliu/pytorch-cifar
+
+AE  
+https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/autoencoder.ipynb
+
+
 
 ## Dataset
 
